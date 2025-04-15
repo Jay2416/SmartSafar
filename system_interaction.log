@@ -89,7 +89,7 @@ If you had a different destination in mind, feel free to let me know, and I'll d
 <li>4:30 PM - 6:00 PM: Head to the <strong>Dumas Beach</strong>, a popular spot for relaxation and recreation. Take a leisurely walk, enjoy the sunset, and try some local snacks like coconut water and beachside chaat.</li>
 <li>7:00 PM - 9:00 PM: End the day with a visit to the <strong>SGM Mall</strong>, a popular shopping and entertainment destination. Catch a movie, play games, or simply enjoy the mall's vibrant atmosphere.</li>
 </ul>
-<p>This itinerary provides a mix of history, culture, food, and entertainment, and can be tailored to fit your specific interests and preferences. Enjoy your day trip to Surat!</p></div>, Weather: <p><strong>Current weather in surat in 2 days:</strong> Clear, 25.1°C</p>, Fun Fact: <p><strong>Fun Fact:</strong> In just 2 days, you can explore the vibrant city of Surat, but here's a fun fact that most travelers might not know: 
+<p>This itinerary provides a mix of history, culture, food, and entertainment, and can be tailored to fit your specific interests and preferences. Enjoy your day trip to Surat!</p></div>, Weather: <p><strong>Current weather in surat in 2 days:</strong> Clear, 25.1Â°C</p>, Fun Fact: <p><strong>Fun Fact:</strong> In just 2 days, you can explore the vibrant city of Surat, but here's a fun fact that most travelers might not know: 
 
 Surat is home to the famous 'Hajira Village', which is a stunning beachside destination, but what's unique about it is that it's also a major spot for watching dolphins in their natural habitat. Yes, you read that right! In just 2 days, you can visit Surat and head to Hajira Village to catch a glimpse of these intelligent creatures playing in the Arabian Sea. It's a hidden gem that not many travelers are aware of, making it a must-visit spot for any nature lover or adventure seeker.</p>
 2025-03-19 00:24:27,882 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
@@ -124,7 +124,7 @@ Surat is home to the famous 'Hajira Village', which is a stunning beachside dest
 <li>Try the Gujarati-style Pizza at <strong>Leon's</strong>, a unique fusion of Indian and Italian cuisine.</li>
 <li>Don't miss the local street food like Khaman, Dhokla, and Fafda, which are available at most street food stalls and markets.</li>
 </ul>
-<p>I hope you enjoy your trip to Surat!</p></div>, Weather: <p><strong>Current weather in surat in 2 days:</strong> Clear, 25.1°C</p>, Fun Fact: <p><strong>Fun Fact:</strong> In 2 days, you'll have just enough time to explore the fascinating city of Surat. Here's a fun fact: Surat is often referred to as the "Diamond City" of India, but what most travelers don't know is that it's also home to the famous Dumas Beach, which is said to have a unique phenomenon - a stretch of black sand that glows at night due to the presence of bioluminescent organisms! This rare occurrence is a result of the beach's unique ecosystem, making it a must-visit attraction in Surat. Spend your 2 days exploring the city's diamond markets, historic landmarks, and of course, witnessing the magical glow of Dumas Beach at night!</p>
+<p>I hope you enjoy your trip to Surat!</p></div>, Weather: <p><strong>Current weather in surat in 2 days:</strong> Clear, 25.1Â°C</p>, Fun Fact: <p><strong>Fun Fact:</strong> In 2 days, you'll have just enough time to explore the fascinating city of Surat. Here's a fun fact: Surat is often referred to as the "Diamond City" of India, but what most travelers don't know is that it's also home to the famous Dumas Beach, which is said to have a unique phenomenon - a stretch of black sand that glows at night due to the presence of bioluminescent organisms! This rare occurrence is a result of the beach's unique ecosystem, making it a must-visit attraction in Surat. Spend your 2 days exploring the city's diamond markets, historic landmarks, and of course, witnessing the magical glow of Dumas Beach at night!</p>
 2025-03-19 00:24:31,783 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-19 00:24:32,517 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-19 00:24:32,519 - INFO - User Input: City: surat in 2 days, Interests: Food, Entertainment | Response: Itinerary: <div style='font-family: Arial, sans-serif; padding: 10px;'><p>I'd be delighted to plan a perfect 2-day trip to Surat for you, incorporating your interests in food and entertainment. Here's a suggested itinerary:</p>
@@ -151,7 +151,7 @@ Surat is home to the famous 'Hajira Village', which is a stunning beachside dest
 <li>Visit the <strong>Surat Central Mall</strong>, which offers a range of shopping and dining options, including a food court with local cuisine.</li>
 <li>Take a stroll along the <strong>Tapi River</strong>, which offers stunning views of the city and a peaceful atmosphere.</li>
 </ul>
-<p>I hope you enjoy your 2-day trip to Surat! This itinerary provides a mix of food, entertainment, and local culture, and is sure to give you a memorable experience.</p></div>, Weather: <p><strong>Current weather in surat in 2 days:</strong> Clear, 25.1°C</p>, Fun Fact: <p><strong>Fun Fact:</strong> Surat, a city in the Indian state of Gujarat, has a fascinating secret. Here's a fun fact: 
+<p>I hope you enjoy your 2-day trip to Surat! This itinerary provides a mix of food, entertainment, and local culture, and is sure to give you a memorable experience.</p></div>, Weather: <p><strong>Current weather in surat in 2 days:</strong> Clear, 25.1Â°C</p>, Fun Fact: <p><strong>Fun Fact:</strong> Surat, a city in the Indian state of Gujarat, has a fascinating secret. Here's a fun fact: 
 
 In 2 days, you can explore the stunning Dumas Beach in Surat, which is famous for its black sand. But what most travelers don't know is that Dumas Beach is also rumored to be haunted! Locals claim to have experienced paranormal activities, and many believe that the beach is inhabited by ghosts. However, this hasn't deterred visitors, and the beach remains a popular spot for both thrill-seekers and those looking for a unique experience.
 
@@ -190,7 +190,7 @@ Would you like to know more about Surat or plan a trip to this intriguing city?<
 2025-03-19 21:49:24,584 - INFO - User Input: City: S, Interests:  | Response: Itinerary: <div style='font-family: Arial, sans-serif; padding: 10px;'><p>I'd be happy to plan your perfect day trip. Since I don't know your specific interests, I'll create a general itinerary that includes a mix of popular attractions, hidden gems, and local cuisine. Let's assume we're exploring a beautiful coastal town. Feel free to modify or provide more information about your interests to make it more tailored to your preferences.</p>
 <p><strong>Day Trip Itinerary:</strong></p>
 <p><strong>8:00 AM - 9:00 AM: Breakfast and Beach Time</strong>
-Start your day with a delicious breakfast at a local café, where you can try some freshly baked pastries and coffee. Head to the beach, where you can soak up the sun, take a leisurely walk, or try your hand at surfing or paddleboarding.</p>
+Start your day with a delicious breakfast at a local cafÃ©, where you can try some freshly baked pastries and coffee. Head to the beach, where you can soak up the sun, take a leisurely walk, or try your hand at surfing or paddleboarding.</p>
 <p><strong>9:00 AM - 10:30 AM: Explore the Coastal Town</strong>
 Visit the town's historic pier, where you can admire the stunning views of the ocean and take some memorable photos. Explore the nearby shops and galleries, which feature local artwork, unique souvenirs, and handmade crafts.</p>
 <p><strong>10:30 AM - 12:00 PM: Hidden Gem - Secret Garden</strong>
@@ -200,7 +200,7 @@ Head to a local eatery, where you can try some of the town's famous seafood dish
 <p><strong>1:30 PM - 3:30 PM: Famous Spot - Lighthouse</strong>
 Visit the town's iconic lighthouse, which offers breathtaking views of the coastline and the surrounding landscape. Learn about the lighthouse's history and significance, and take some stunning photos from the top.</p>
 <p><strong>3:30 PM - 5:00 PM: Local Cuisine and Coffee</strong>
-Take a break and indulge in some local cuisine, such as freshly baked cookies, ice cream, or coffee. Visit a local bakery or café, where you can sample some of the town's specialties and relax in a cozy atmosphere.</p>
+Take a break and indulge in some local cuisine, such as freshly baked cookies, ice cream, or coffee. Visit a local bakery or cafÃ©, where you can sample some of the town's specialties and relax in a cozy atmosphere.</p>
 <p><strong>5:00 PM - 6:30 PM: Sunset Views</strong>
 Find a spot to watch the sunset, which is a truly unforgettable experience. You can choose a spot on the beach, at a cliff overlooking the ocean, or at a rooftop bar with stunning views.</p>
 <p><strong>6:30 PM - 8:00 PM: Dinner and Evening Stroll</strong>
@@ -230,7 +230,7 @@ Would you like to know more about Santorini or is there another 'S' destination 
 <li>4:00 PM - 6:00 PM: Explore the <strong>Rajkot Handicrafts Market</strong>, a marketplace where you can find a variety of local handicrafts like textiles, pottery, and jewelry. Look for some unique souvenirs to take back home.</li>
 <li>7:00 PM - 9:00 PM: End the day with dinner at <strong>Taste of India</strong>, a restaurant serving a variety of Indian cuisines, including Gujarati, Punjabi, and South Indian. Try their signature dishes like <strong>butter chicken</strong> and <strong>idli</strong>.</li>
 </ul>
-<p>This itinerary provides a mix of famous spots, local cuisine, and hidden gems, and is tailored to your interest in food. Enjoy your trip to Rajkot!</p></div>, Weather: <p><strong>Current weather in Rajkot in 2 days:</strong> Clear, 26.7°C</p>, Fun Fact: <p><strong>Fun Fact:</strong> Rajkot, a city in the Indian state of Gujarat. Here's an interesting fact: 
+<p>This itinerary provides a mix of famous spots, local cuisine, and hidden gems, and is tailored to your interest in food. Enjoy your trip to Rajkot!</p></div>, Weather: <p><strong>Current weather in Rajkot in 2 days:</strong> Clear, 26.7Â°C</p>, Fun Fact: <p><strong>Fun Fact:</strong> Rajkot, a city in the Indian state of Gujarat. Here's an interesting fact: 
 
 In just 2 days, you can explore the fascinating world of Mahatma Gandhi, as Rajkot is the city where he spent his childhood. Visit the Kaba Gandhi No Delo, a house-turned-museum that showcases the life and times of the Mahatma. You can see the very room where he was born and spent his early years. What's more, the house has been preserved to reflect the simplicity and humility of the Gandhi family. 
 
@@ -269,7 +269,7 @@ Within these 2 days, you can also visit the Rashtriya Shala, a school founded by
 <li>1:30 PM: Visit the Lang Library, a unique library that offers a range of books and resources. Spend some time exploring the library and its collection.</li>
 <li>3:30 PM: End the day with a visit to the Rajkot Club, a popular spot for recreation and entertainment.</li>
 </ul>
-<p>This itinerary provides a mix of cultural heritage, entertainment, and hidden gems, and is tailored to your interest in Entertainment. Enjoy your day trip to Rajkot!</p>, Weather: **Current weather in Rajkot in 3 days:** Clear, 25.4°C, Fun Fact: **Fun Fact:** Rajkot, a city in the Indian state of Gujarat, has a fascinating history and culture. Here's a fun fact about Rajkot that most travelers might not know:
+<p>This itinerary provides a mix of cultural heritage, entertainment, and hidden gems, and is tailored to your interest in Entertainment. Enjoy your day trip to Rajkot!</p>, Weather: **Current weather in Rajkot in 3 days:** Clear, 25.4Â°C, Fun Fact: **Fun Fact:** Rajkot, a city in the Indian state of Gujarat, has a fascinating history and culture. Here's a fun fact about Rajkot that most travelers might not know:
 
 In 3 days, you can explore the unique aspect of Rajkot, which is that it is the hometown of Mahatma Gandhi, India's father of the nation. Specifically, you can visit the Kaba Gandhi No Delo, a house where Mahatma Gandhi spent his childhood. This historic house has been converted into a museum, showcasing the life and times of Mahatma Gandhi. You can see his personal belongings, photographs, and even the exact room where he was born. It's a must-visit destination for anyone interested in history, culture, and the life of this iconic leader.
 
@@ -296,7 +296,7 @@ Would you like to know more about Rajkot or plan a trip to visit this fascinatin
 <li>5:00 PM - 7:00 PM: Head to the SG Mall, a popular shopping and entertainment destination. You can find a variety of shops, restaurants, and entertainment options like movie theaters or gaming zones.</li>
 <li>8:00 PM - 10:00 PM: End the day with a visit to the Food Street at Athwal Lines, where you can find a variety of street food options, from traditional Gujarati dishes to international cuisine.</li>
 </ul>
-<p>This itinerary provides a mix of famous spots, local cuisine, and entertainment options, tailored to your interests in Food and Entertainment. Enjoy your day trip to Surat!</p>, Weather: \U0001f324 **Current weather in Surat in 2 days :** Clear, 25.5°C, Fun Fact: \U0001f389 **Fun Fact:** You're planning to visit Surat in 2 days. Here's a fun fact: 
+<p>This itinerary provides a mix of famous spots, local cuisine, and entertainment options, tailored to your interests in Food and Entertainment. Enjoy your day trip to Surat!</p>, Weather: \U0001f324 **Current weather in Surat in 2 days :** Clear, 25.5Â°C, Fun Fact: \U0001f389 **Fun Fact:** You're planning to visit Surat in 2 days. Here's a fun fact: 
 
 Did you know that Surat is home to the famous "Diamond Cutting and Polishing" industry? In just 2 days, you can explore the city's diamond markets and learn about the process of cutting and polishing diamonds. Surat is often referred to as the "Diamond City of India" and accounts for over 90% of the world's diamond cutting and polishing. You can even take a guided tour to see the diamond artisans at work, creating exquisite pieces of jewelry. This unique experience will give you a glimpse into the city's thriving diamond industry and make your 2-day trip to Surat even more memorable!
 2025-03-20 14:28:31,477 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
@@ -321,7 +321,7 @@ Did you know that Surat is home to the famous "Diamond Cutting and Polishing" in
 </ul>
 <p><strong>Day 2: Shopping and Food</strong></p>
 <ul>
-<li>8:00 AM - 9:00 AM: Breakfast at a local café</li>
+<li>8:00 AM - 9:00 AM: Breakfast at a local cafÃ©</li>
 <li>9:30 AM - 12:00 PM: Visit the Lulu Mall, one of the largest shopping malls in India</li>
 <li>12:30 PM - 2:00 PM: Lunch at the mall or try some street food at the nearby Broadway Market</li>
 <li>2:30 PM - 5:00 PM: Explore the local markets, such as the Broadway Market or the Marine Drive, for some unique shopping experiences</li>
@@ -337,7 +337,7 @@ Did you know that Surat is home to the famous "Diamond Cutting and Polishing" in
 </ul>
 <p><strong>Day 4: Heritage</strong></p>
 <ul>
-<li>8:00 AM - 9:00 AM: Breakfast at a local café</li>
+<li>8:00 AM - 9:00 AM: Breakfast at a local cafÃ©</li>
 <li>9:30 AM - 11:00 AM: Visit the Santa Cruz Cathedral Basilica</li>
 <li>11:30 AM - 1:00 PM: Explore the Kochi Museum and learn about the history and culture of the city</li>
 <li>1:00 PM - 2:30 PM: Lunch at a local restaurant</li>
@@ -354,7 +354,7 @@ Did you know that Surat is home to the famous "Diamond Cutting and Polishing" in
 </ul>
 <p><strong>Day 6: Adventure</strong></p>
 <ul>
-<li>8:00 AM - 9:00 AM: Breakfast at a local café</li>
+<li>8:00 AM - 9:00 AM: Breakfast at a local cafÃ©</li>
 <li>9:30 AM - 12:00 PM: Go for a snorkeling or scuba diving trip to the nearby islands</li>
 <li>12:30 PM - 2:00 PM: Lunch at a local restaurant</li>
 <li>2:30 PM - 5:00 PM: Visit the Kochi Backwaters and take a boat ride</li>
@@ -369,7 +369,7 @@ Did you know that Surat is home to the famous "Diamond Cutting and Polishing" in
 <li>3:00 PM - 5:00 PM: Visit the Kochi Fort and the nearby St. Francis Church</li>
 <li>6:00 PM - 8:00 PM: Enjoy a farewell dinner and watch a traditional Kerala performance</li>
 </ul>
-<p>Please let me know your interests, and I'll customize the itinerary accordingly.</p>, Weather: \U0001f324 **Current weather in kochi for 7 days:** Partly cloudy, 2.1°C, Fun Fact: \U0001f389 **Fun Fact:** Here are 7 fun facts about Kochi, one for each day of the week:
+<p>Please let me know your interests, and I'll customize the itinerary accordingly.</p>, Weather: \U0001f324 **Current weather in kochi for 7 days:** Partly cloudy, 2.1Â°C, Fun Fact: \U0001f389 **Fun Fact:** Here are 7 fun facts about Kochi, one for each day of the week:
 
 **Day 1: Monday**
 Kochi is home to the oldest European church in India, the St. Francis Church, which was built in 1503 by the Portuguese. This church is a must-visit for history buffs and those interested in architecture.
@@ -436,7 +436,7 @@ Visit between January and March for the best experience, as the weather is pleas
 <li><strong>Undhiyu</strong>: A mixed vegetable curry made with a range of local vegetables.</li>
 <li><strong>Khichdi</strong>: A rice and lentil dish that is a staple of Gujarati cuisine.</li>
 </ul>
-<p>I hope this itinerary helps you plan your perfect day trip to Surat!</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, you'll be exploring the vibrant city of Surat. Here's a fun fact: Did you know that Surat is home to the famous 'Hajira Village', which is also known as the 'Diamond Village'? In just 2 days, you can visit this village and see the diamond polishing and cutting process up close. Surat is often called the 'Diamond City' of India, and Hajira Village is where you can experience the city's diamond industry firsthand. You'll get to see the skilled artisans at work, and maybe even take home a sparkling souvenir. Get ready to shine in Surat!
+<p>I hope this itinerary helps you plan your perfect day trip to Surat!</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7Â°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, you'll be exploring the vibrant city of Surat. Here's a fun fact: Did you know that Surat is home to the famous 'Hajira Village', which is also known as the 'Diamond Village'? In just 2 days, you can visit this village and see the diamond polishing and cutting process up close. Surat is often called the 'Diamond City' of India, and Hajira Village is where you can experience the city's diamond industry firsthand. You'll get to see the skilled artisans at work, and maybe even take home a sparkling souvenir. Get ready to shine in Surat!
 2025-03-26 21:38:38,584 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-26 21:38:39,960 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-26 21:38:40,260 - INFO - User Input: City: Surat in 2 days, Interests: Food, Entertainment | Response: Itinerary: <p>\U0001f31f <strong>Welcome to Surat, the Diamond City of India</strong> \U0001f31f
@@ -477,7 +477,7 @@ We've crafted a 2-day itinerary for you to explore the best of Surat, focusing o
 - Morning: Go on a local food tour to taste Surat's specialties.
 - Afternoon: Visit any attraction you might have missed on Day 1 or shop for souvenirs.
 - Evening: Enjoy a relaxing dinner at a rooftop restaurant with a view.</p>
-<p>This itinerary offers a mix of history, culture, food, and entertainment, ensuring your trip to Surat is memorable and enjoyable. \U0001f31f</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7°C, Fun Fact: \U0001f389 **Fun Fact:** Surat, a city in the state of Gujarat, India, has a fascinating history. Here's a fun fact: 
+<p>This itinerary offers a mix of history, culture, food, and entertainment, ensuring your trip to Surat is memorable and enjoyable. \U0001f31f</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7Â°C, Fun Fact: \U0001f389 **Fun Fact:** Surat, a city in the state of Gujarat, India, has a fascinating history. Here's a fun fact: 
 
 In 2 days, you can explore the hidden gem of Surat, which is the world's largest diamond cutting and polishing center. Surat is often referred to as the 'Diamond City' of India, and it's estimated that about 90% of the world's diamonds are cut and polished here. You can visit the Surat Diamond Bourse, a massive complex that houses thousands of diamond merchants, cutters, and polishers. It's an incredible sight to see the meticulous process of transforming rough diamonds into sparkling gems. 
 
@@ -486,7 +486,7 @@ In just 2 days, you can experience the vibrant city of Surat, learn about its ri
 2025-03-26 21:40:25,043 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-26 21:40:25,441 - INFO - User Input: City: Surat in 2 days, Interests: Food, Entertainment | Response: Itinerary: <p>\U0001f4cd <strong>Welcome to Surat: A City of Flavors and Delights</strong> \U0001f31f
 Surat, a city in the Indian state of Gujarat, is known for its rich history, vibrant culture, and delectable cuisine. Here's a 2-day itinerary that combines food, entertainment, and exploration to make your trip unforgettable \U0001f389.</p>
-<p>\U0001f4c5 <strong>Best Time to Visit:</strong> \U0001f31e Best visited between October and March for pleasant weather, with average temperatures ranging from 15°C to 30°C.</p>
+<p>\U0001f4c5 <strong>Best Time to Visit:</strong> \U0001f31e Best visited between October and March for pleasant weather, with average temperatures ranging from 15Â°C to 30Â°C.</p>
 <p>\U0001f3e8 <strong>Stay Options (Per Night in INR \u20b9):</strong>
 1. \U0001f4b0 <strong>Budget Stay (\u20b91000 - \u20b93000):</strong> Hotel Central, located in the heart of Surat, offers comfortable rooms with amenities like free Wi-Fi, air conditioning, and a 24-hour front desk. Price: \u20b92000 per night.
 2. \U0001f3e1 <strong>Mid-Range (\u20b93000 - \u20b97000):</strong> Hotel Ginger, situated near the Surat Railway Station, provides modern rooms with amenities like a fitness center, free breakfast, and a business center. Price: \u20b94500 per night.
@@ -497,7 +497,7 @@ Surat, a city in the Indian state of Gujarat, is known for its rich history, vib
 - <strong>9:30 AM</strong> \U0001f3db\ufe0f: Visit the Surat Castle, a 16th-century fort that showcases the city's rich history and architecture.
 - <strong>12:30 PM</strong> \U0001f35b: Lunch at Rajwadu, a famous restaurant serving authentic Gujarati cuisine, including dishes like undhiyu and khaman.
 - <strong>2:00 PM</strong> \U0001f6cd\ufe0f: Explore the bustling streets of Surat, visiting the local markets like Ghoddod Road and Ring Road, known for their vibrant textiles and handicrafts.
-- <strong>4:30 PM</strong> \u2615: Evening tea/coffee break at the scenic café, The Coffee Culture, overlooking the Tapi River.
+- <strong>4:30 PM</strong> \u2615: Evening tea/coffee break at the scenic cafÃ©, The Coffee Culture, overlooking the Tapi River.
 - <strong>6:00 PM</strong> \U0001f305: Enjoy the stunning sunset at the Dutch Garden, a beautiful park with historical significance.
 - <strong>8:00 PM</strong> \U0001f37d\ufe0f: Dinner at Barbeque Nation, a popular restaurant offering a wide range of grilled delicacies and international cuisine.
 - <strong>10:00 PM</strong> \U0001f319: End the day with a night stroll along the Tapi Riverfront, enjoying the city's nightlife and street food.</p>
@@ -506,479 +506,8 @@ Surat, a city in the Indian state of Gujarat, is known for its rich history, vib
 - <strong>9:30 AM</strong> \U0001f3a8: Visit the Sardar Patel Museum, showcasing the city's history, art, and culture.
 - <strong>12:30 PM</strong> \U0001f35b: Lunch at the iconic Jesal Restaurant, known for its mouth-watering Gujarati and Indian cuisine.
 - <strong>2:00 PM</strong> \U0001f6cd\ufe0f: Explore the hidden gems of Surat, like the textile markets and local artisans, to experience the city's unique craftsmanship.
-- <strong>4:30 PM</strong> \u2615: Evening tea/coffee break at a local café, like The Chai Shop, offering a variety of tea flavors and snacks.
+- <strong>4:30 PM</strong> \u2615: Evening tea/coffee break at a local cafÃ©, like The Chai Shop, offering a variety of tea flavors and snacks.
 - <strong>6:00 PM</strong> \U0001f305: Attend a cultural performance or event at the Surat Municipal Auditorium, showcasing the city's rich cultural heritage.
 - <strong>8:00 PM</strong> \U0001f37d\ufe0f: Dinner at a recommended spot, like the 24-hour diner, Mirch Masala, serving a range of Indian and international dishes.
 - <strong>10:00 PM</strong> \U0001f319: Wrap up the day with a visit to the bustling Dumas Beach, enjoying the sea breeze and local street food.</p>
-<p>\U0001f44d This itinerary provides a mix of history, culture, food, and entertainment, making your 2-day trip to Surat an unforgettable experience \U0001f31f.</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, you'll have just enough time to explore Surat, and here's a fun fact to get you started: Did you know that Surat is home to the famous 'Hajira Village', which is often referred to as the 'Village of Diamonds'? In just 2 days, you can visit this village and see the diamond polishing and cutting units that have made Surat one of the world's largest diamond cutting and polishing centers. You can even take a guided tour to learn more about the process and maybe even pick up some sparkling souvenirs. Isn't that a gem of a fact?
-2025-03-26 21:42:04,467 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:42:06,526 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:42:06,529 - INFO - User Input: City: Surat in 2 days, Interests:  | Response: Itinerary: <p>\U0001f31f <strong>Welcome to Surat, the Diamond City of India</strong> \U0001f31f
-Surat is a city in the state of Gujarat, known for its rich history, cultural heritage, and vibrant markets. Here's a suggested 2-day itinerary for your trip to Surat:</p>
-<p>\U0001f552 <strong>Time-Wise Itinerary:</strong></p>
-<p><strong>Day 1:</strong>
-- <strong>8:00 AM</strong> \u2600\ufe0f: Start your day with a delicious breakfast at <strong>Shree Sagar Sandwich</strong> \U0001f37d\ufe0f, a famous local eatery serving a variety of sandwiches and snacks.
-- <strong>9:30 AM</strong> \U0001f3db\ufe0f: Visit the <strong>Surat Castle</strong> \U0001f3f0, a 16th-century fort that showcases the city's rich history and architectural heritage.
-- <strong>12:30 PM</strong> \U0001f35b: Enjoy lunch at <strong>Kansar Gujarati Thali</strong> \U0001f374, a must-try restaurant serving authentic Gujarati cuisine.
-- <strong>2:00 PM</strong> \U0001f6cd\ufe0f: Explore the <strong>Rangila Park Street</strong> \U0001f6cd\ufe0f, a popular shopping destination with a variety of shops, stalls, and street food options.
-- <strong>4:30 PM</strong> \u2615: Take a break and enjoy evening tea/coffee at <strong>The Coffee Culture</strong> \u2615\ufe0f, a scenic café with a cozy atmosphere.
-- <strong>6:00 PM</strong> \U0001f305: Visit the <strong>Tapi River Front</strong> \U0001f305, a beautiful spot to watch the sunset and enjoy the city's scenic views.
-- <strong>8:00 PM</strong> \U0001f37d\ufe0f: Have dinner at <strong>Barbeque Nation</strong> \U0001f374, a top-rated restaurant serving a variety of BBQ dishes.
-- <strong>10:00 PM</strong> \U0001f319: End your day with a night stroll along the <strong>Tapi River Front</strong> \U0001f319, enjoying the city's nightlife and scenic views.</p>
-<p><strong>Day 2:</strong>
-- <strong>8:00 AM</strong> \u2600\ufe0f: Start your day with breakfast at <strong>Saurashtra Snacks</strong> \U0001f37d\ufe0f, a popular eatery serving a variety of snacks and breakfast options.
-- <strong>9:30 AM</strong> \U0001f3db\ufe0f: Visit the <strong>Dutch Garden</strong> \U0001f333, a beautiful garden with a rich history and architectural heritage.
-- <strong>12:30 PM</strong> \U0001f35b: Enjoy lunch at <strong>The Grand Bhagwati</strong> \U0001f374, a must-try restaurant serving authentic Indian cuisine.
-- <strong>2:00 PM</strong> \U0001f6cd\ufe0f: Explore the <strong>Ghoddod Road</strong> \U0001f6cd\ufe0f, a popular shopping destination with a variety of shops, stalls, and street food options.
-- <strong>4:30 PM</strong> \u2615: Take a break and enjoy evening tea/coffee at <strong>The Café</strong> \u2615\ufe0f, a cozy café with a scenic atmosphere.
-- <strong>6:00 PM</strong> \U0001f305: Visit the <strong>Dumas Beach</strong> \U0001f305, a beautiful spot to watch the sunset and enjoy the city's scenic views.
-- <strong>8:00 PM</strong> \U0001f37d\ufe0f: Have dinner at <strong>The Square</strong> \U0001f374, a top-rated restaurant serving a variety of international dishes.
-- <strong>10:00 PM</strong> \U0001f319: End your day with a night stroll along the <strong>Dumas Beach</strong> \U0001f319, enjoying the city's nightlife and scenic views.</p>
-<p>\U0001f3e8 <strong>Recommended Stays (Per Night in INR \u20b9):</strong>
-- \U0001f4b0 <strong>Budget Stay (\u20b91000 - \u20b93000):</strong> <strong>Hotel Central</strong> \U0001f3e8, located in the heart of the city, offers comfortable rooms, free Wi-Fi, and a 24-hour front desk.
-- \U0001f3e1 <strong>Mid-Range (\u20b93000 - \u20b97000):</strong> <strong>Hotel Ginger</strong> \U0001f3e8, located near the railway station, offers modern rooms, a fitness center, and a restaurant serving international cuisine.
-- \U0001f31f <strong>Luxury Stay (\u20b97000+):</strong> <strong>The Grand Bhagwati</strong> \U0001f31f, located in the heart of the city, offers luxurious rooms, a spa, a fitness center, and a restaurant serving authentic Indian cuisine.</p>
-<p>\U0001f4c5 <strong>Best Time to Visit:</strong> \U0001f31e Best visited between October and March for pleasant weather. \U0001f33b The city experiences a tropical savanna climate, with hot summers and mild winters. \U0001f31e The ideal time to visit Surat is during the winter months (October to March) when the weather is cool and pleasant, making it perfect for sightseeing and outdoor activities. \U0001f33b</p>
-<p>Remember to plan your trip according to the best time to visit and book your stay in advance to ensure a comfortable and enjoyable trip to Surat! \U0001f31f</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7°C, Fun Fact: \U0001f389 **Fun Fact:** You're heading to Surat in 2 days. Here's a fun fact: Surat is known as the "Diamond City" of India, and it's home to a unique festival called the "Surat Utsav" or "Surat Festival". However, a lesser-known fact is that Surat has a fascinating connection to the world of textiles. The city is home to a 500-year-old traditional textile art form called "Kinkhab" or "Kinakh" weaving, which originated in the 16th century. This intricate weaving technique involves using gold and silver threads to create stunning fabrics, often adorned with precious stones. You might be able to catch a glimpse of this ancient craft during your 2-day visit to Surat.
-2025-03-26 21:43:25,541 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:43:26,623 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:43:26,625 - INFO - User Input: City: Surat in 2 days, Interests: Food, Entertainment | Response: Itinerary: <p>I'd be happy to help you plan a fun-filled day trip to Surat, incorporating your interests in food and entertainment. Since you're looking to explore Surat in 2 days, I'll provide you with a comprehensive itinerary.</p>
-<p><strong>Day 1:</strong></p>
-<ul>
-<li>8:00 AM - 9:00 AM: Start your day with a delicious breakfast at a local eatery, trying some traditional Gujarati dishes like 'Ghari' (a sweet dish) or 'Locho' (a popular street food).</li>
-<li>9:00 AM - 10:30 AM: Visit the Surat Castle, a 16th-century fort that showcases the city's rich history and architecture.</li>
-<li>10:30 AM - 12:30 PM: Head to the Dutch Garden, a beautiful park with historic significance, and take a stroll around the lush greenery.</li>
-<li>12:30 PM - 1:30 PM: Enjoy lunch at a local restaurant, trying some popular dishes like 'Undhiyu' (a mixed vegetable curry) or 'Khaman' (a savory steamed cake).</li>
-<li>1:30 PM - 3:30 PM: Explore the vibrant streets of Surat, visiting the famous textile markets and shopping for some local handicrafts.</li>
-<li>3:30 PM - 5:00 PM: Take a break and relax at a nearby café, trying some local snacks like 'Fafda' (a crispy fried snack) or 'Jalebi' (a sweet dessert).</li>
-<li>5:00 PM - 7:00 PM: Visit the Dumas Beach, a scenic spot with stunning sunsets, and enjoy the local street food and entertainment.</li>
-<li>7:00 PM - 9:00 PM: End your day with a visit to the Surat Night Market, where you can try some local street food, buy souvenirs, and enjoy the lively atmosphere.</li>
-</ul>
-<p><strong>Day 2:</strong></p>
-<ul>
-<li>8:00 AM - 9:00 AM: Start your day with a visit to the Ambaji Temple, a beautiful shrine dedicated to the goddess Amba.</li>
-<li>9:00 AM - 10:30 AM: Explore the nearby villages, getting a glimpse into the local rural life and trying some traditional snacks like 'Thepla' (a flatbread) or 'Khakhra' (a crispy flatbread).</li>
-<li>10:30 AM - 12:30 PM: Visit the Science Centre, a popular attraction with interactive exhibits and displays.</li>
-<li>12:30 PM - 1:30 PM: Enjoy lunch at a local restaurant, trying some popular dishes like 'Gujarati Thali' (a traditional meal) or 'Vada Pav' (a popular street food).</li>
-<li>1:30 PM - 3:30 PM: Take a tour of the local diamond industry, learning about the city's famous diamond cutting and polishing techniques.</li>
-<li>3:30 PM - 5:00 PM: Relax at a nearby park or garden, enjoying the local scenery and taking a break from the day's activities.</li>
-<li>5:00 PM - 7:00 PM: End your day with a visit to the Hazira Beach, a scenic spot with stunning views of the Arabian Sea.</li>
-</ul>
-<p><strong>Budget-friendly accommodations:</strong></p>
-<p>Some budget-friendly options near the city include:</p>
-<ul>
-<li>Hotel Central: \u20b91,200 - \u20b92,000 per night</li>
-<li>Hotel Royal: \u20b91,500 - \u20b92,500 per night</li>
-<li>Hotel Surat: \u20b91,000 - \u20b91,800 per night</li>
-<li>OYO Rooms: \u20b9800 - \u20b91,500 per night</li>
-</ul>
-<p><strong>Best season to visit:</strong></p>
-<p>Visit between January and March for the best experience, as the weather is pleasant and cool, making it ideal for sightseeing and outdoor activities. Avoid visiting during the summer months (April to June) as the heat can be intense.</p>
-<p>I hope this itinerary helps you plan a fun and memorable trip to Surat!</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, you'll be exploring the vibrant city of Surat. Here's a fun fact: Did you know that Surat is home to the famous 'Hajira Village', which is a stunning beach destination located just 28 kilometers from the city center? What's unique about this village is that it's a picturesque hamlet with a beautiful beach, a historic fort, and a tranquil atmosphere, making it a perfect spot for a relaxing getaway from the hustle and bustle of the city. Most travelers don't know about this hidden gem, so be sure to add it to your itinerary and experience the serene beauty of Hajira Village during your 2-day trip to Surat!
-2025-03-26 21:45:28,001 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:45:29,340 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:45:29,342 - INFO - User Input: City: surat, Interests: food | Response: Itinerary: <p>\U0001f334 <strong>Welcome to Surat, the Food Lover's Paradise</strong> \U0001f374
-Let's plan an unforgettable day trip to Surat, a city in the state of Gujarat, India, known for its rich culinary heritage and vibrant culture. \U0001f389</p>
-<p>\U0001f552 <strong>Time-Wise Itinerary:</strong>
-- <strong>8:00 AM</strong> \u2600\ufe0f: Start your day with a delicious breakfast at <strong>Shree Sagar Sandwich</strong>, a famous local eatery \U0001f37d\ufe0f, trying their signature sandwich and tea.
-- <strong>9:30 AM</strong> \U0001f3db\ufe0f: Visit the <strong>Surat Castle</strong>, a 16th-century fort that showcases the city's history and architecture.
-- <strong>12:30 PM</strong> \U0001f35b: Savor a mouth-watering lunch at <strong>Kansar Gujarati Thali</strong>, a must-try restaurant serving authentic Gujarati cuisine.
-- <strong>2:00 PM</strong> \U0001f6cd\ufe0f: Explore the <strong>Ring Road Market</strong>, a bustling local market where you can find everything from street food to handicrafts.
-- <strong>4:30 PM</strong> \u2615: Take an evening tea/coffee break at <strong>The Coffee Culture</strong>, a scenic café with a cozy atmosphere.
-- <strong>6:00 PM</strong> \U0001f305: Watch the sunset at <strong>Dumas Beach</strong>, a scenic spot with stunning views of the Arabian Sea.
-- <strong>8:00 PM</strong> \U0001f37d\ufe0f: Enjoy dinner at <strong>Taste of Gujarat</strong>, a top-rated restaurant serving a wide range of Gujarati dishes.
-- <strong>10:00 PM</strong> \U0001f319: End your day with a night stroll along the <strong>Tapi Riverfront</strong>, a beautiful spot with a calming atmosphere.</p>
-<p>\U0001f3e8 <strong>Recommended Stays (Per Night in INR \u20b9):</strong>
-- \U0001f4b0 <strong>Budget Stay (\u20b91000 - \u20b93000):</strong>
-  - <strong>Hotel Name:</strong> Hotel Sifat International
-  - <strong>Location:</strong> Near Surat Railway Station
-  - <strong>Amenities:</strong> Free WiFi, Basic Breakfast, AC Rooms
-- \U0001f3e1 <strong>Mid-Range (\u20b93000 - \u20b97000):</strong>
-  - <strong>Hotel Name:</strong> Hotel Ginger Surat
-  - <strong>Location:</strong> In the city center, near Ring Road
-  - <strong>Amenities:</strong> Pool, Gym, Complimentary Breakfast
-- \U0001f31f <strong>Luxury Stay (\u20b97000+):</strong>
-  - <strong>Hotel Name:</strong> The Grand Bhagwati
-  - <strong>Location:</strong> Prime city center, near Dumas Beach
-  - <strong>Amenities:</strong> Spa, Fine Dining, Rooftop View, Chauffeur Service</p>
-<p>\U0001f4c5 <strong>Best Time to Visit:</strong>
-\U0001f31e Best visited between October and March for pleasant weather, with temperatures ranging from 15°C to 25°C. Avoid visiting during the summer months (April to June) as the temperature can soar up to 40°C.</p>
-<p>\U0001f44d Now that you have your perfect itinerary, get ready to indulge in the flavors of Surat and experience the city's rich culture! \U0001f389</p>, Weather: \U0001f324 **Current weather in surat:** Clear, 26.7°C, Fun Fact: \U0001f389 **Fun Fact:** Here's a fun fact about Surat: Did you know that Surat is often referred to as the "Diamond City" of India? It's because Surat is the world's largest diamond cutting and polishing center, accounting for over 90% of the world's diamond cutting and polishing. The city is home to thousands of diamond workshops and factories, where skilled artisans cut and polish diamonds that are then exported to jewelry manufacturers around the globe. In fact, Surat's diamond industry is so significant that it's estimated to employ over 500,000 people in the city. This unique aspect of Surat's economy and industry makes it a fascinating destination for travelers to explore and learn about.
-2025-03-26 21:47:50,179 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:47:51,766 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:47:51,768 - INFO - User Input: City: Surat in 2 days, Interests: Food, Entertainment | Response: Itinerary: <p>\U0001f31f <strong>Surat: A City of Delights</strong> \U0001f31f
-Surat, a vibrant city in the state of Gujarat, is a perfect destination for a 2-day trip \U0001f5d3\ufe0f. With its rich history, cultural heritage, and modern entertainment options, Surat has something to offer for every kind of traveler \U0001f308.</p>
-<p>\U0001f552 <strong>Time-Wise Itinerary:</strong>
-Here's a suggested itinerary for your 2-day trip to Surat:
-- <strong>Day 1:</strong>
-  - 9:00 AM: Start the day with a delicious Gujarati breakfast \U0001f374 at a local eatery, trying dishes like fafda, jalebi, and dhokla.
-  - 10:00 AM: Visit the Surat Castle \U0001f3f0, a 16th-century fortress that showcases the city's rich history.
-  - 12:00 PM: Head to the Dutch Garden \U0001f333, a beautiful garden with historic significance.
-  - 2:00 PM: Enjoy a traditional Gujarati lunch \U0001f372 at a local restaurant.
-  - 4:00 PM: Explore the bustling streets of Surat, visiting markets like the Ring Road and Ghoddod Road \U0001f6cd\ufe0f.
-  - 8:00 PM: Spend the evening at the Dumas Beach \U0001f3d6\ufe0f, enjoying the sunset and trying some street food.
-- <strong>Day 2:</strong>
-  - 9:00 AM: Visit the Sardar Patel Museum \U0001f3db\ufe0f, which showcases the life and legacy of the Iron Man of India.
-  - 11:00 AM: Head to the Hazira Maan Darwaja \U0001f3ef, a historic gate that marks the entrance to the city.
-  - 1:00 PM: Enjoy a delicious lunch \U0001f374 at a local restaurant.
-  - 3:00 PM: Visit the Science Centre \U0001f3af, a popular attraction for kids and adults alike.
-  - 6:00 PM: End the day with a visit to the SG Mall \U0001f6cd\ufe0f, a popular shopping destination.</p>
-<p>\U0001f3e8 <strong>Recommended Stays (Per Night in INR \u20b9):</strong>
-Here are three hotel options in Surat, catering to different budgets:
-- \U0001f4b0 <strong>Budget Stay (\u20b91000 - \u20b93000):</strong>
-  - <strong>Hotel Name:</strong> Hotel Central Excellency
-  - <strong>Amenities:</strong> Free Wi-Fi, 24-hour front desk, room service
-- \U0001f3e1 <strong>Mid-Range (\u20b93000 - \u20b97000):</strong>
-  - <strong>Hotel Name:</strong> Hotel Ginger Surat
-  - <strong>Amenities:</strong> Fitness center, free Wi-Fi, 24-hour front desk
-- \U0001f31f <strong>Luxury Stay (\u20b97000+):</strong>
-  - <strong>Hotel Name:</strong> TajGVK Hotel &amp; Convention Centre
-  - <strong>Amenities:</strong> Outdoor pool, fitness center, free Wi-Fi</p>
-<p>\U0001f4c5 <strong>Best Time to Visit:</strong>
-\U0001f31e Best visited between October and March for pleasant weather \U0001f33b. The temperature ranges from 15°C to 30°C, making it ideal for sightseeing and outdoor activities \U0001f31e.</p>
-<p>Remember to plan your trip according to your interests and preferences \U0001f914. With this itinerary, you're sure to have a memorable trip to Surat \U0001f31f! \U0001f6eb\ufe0f</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7°C, Fun Fact: \U0001f389 **Fun Fact:** You're heading to Surat in 2 days. Here's a fun fact: Surat is often referred to as the 'Diamond City' of India, but what most travelers don't know is that it's also home to the famous 'Dutch Garden', a historic monument that showcases the city's rich colonial past. The Dutch Garden is a 16th-century cemetery that was built by the Dutch East India Company, and it's a unique blend of European and Indian architectural styles. It's a hidden gem that's definitely worth exploring during your 2-day trip to Surat.
-2025-03-26 21:53:06,841 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:53:08,887 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 21:53:08,889 - INFO - User Input: City: Surat in 2 days, Interests:  | Response: Itinerary: <p>I'd be delighted to help you plan a perfect 2-day trip to Surat. Here's a suggested itinerary tailored to showcase the city's hidden gems, famous spots, and local cuisine.</p>
-<p><strong>Day 1:</strong></p>
-<ul>
-<li>8:00 AM: Start the day with a delicious Gujarati breakfast at a local eatery, trying dishes like Dhokla, Thepla, or Handvo.</li>
-<li>9:30 AM: Visit the iconic <strong>Dutch Garden</strong>, a 400-year-old heritage site showcasing Dutch architecture and beautiful gardens.</li>
-<li>11:30 AM: Head to the <strong>Surat Castle</strong>, a 16th-century fort that offers stunning views of the city and the Tapi River.</li>
-<li>1:30 PM: Take a break for lunch and try some local cuisine like <strong>Locho</strong> or <strong>Sev Khamani</strong> at a nearby restaurant.</li>
-<li>3:00 PM: Explore the <strong>Hajira Village</strong>, known for its beautiful beaches, temples, and tranquil atmosphere.</li>
-<li>6:00 PM: Visit the <strong>Gopi Talav</strong>, a picturesque lake with a rich history and cultural significance.</li>
-<li>8:30 PM: Enjoy a traditional Gujarati dinner and try some local street food like <strong>Pani Puri</strong> or <strong>Bhel Puri</strong>.</li>
-</ul>
-<p><strong>Day 2:</strong></p>
-<ul>
-<li>8:00 AM: Start the day with a visit to the <strong>Science Centre</strong>, a popular attraction with interactive exhibits and a planetarium.</li>
-<li>10:30 AM: Head to the <strong>Dumas Beach</strong>, a scenic beach with a beautiful view of the Arabian Sea.</li>
-<li>12:30 PM: Take a break for lunch and try some local seafood at a nearby restaurant.</li>
-<li>2:00 PM: Visit the <strong>Sardar Patel Museum</strong>, which showcases the life and legacy of the Iron Man of India.</li>
-<li>4:00 PM: Explore the <strong>Rang Upavan</strong>, a beautiful park with a variety of flora and fauna.</li>
-<li>6:30 PM: End the day with a stunning sunset view at the <strong>Tapi River Front</strong>.</li>
-</ul>
-<p><strong>Budget-Friendly Accommodations:</strong></p>
-<p>Here are some budget-friendly accommodation options near the city:</p>
-<ul>
-<li><strong>Hotel Central Inn</strong>: \u20b91,200 - \u20b92,000 per night (approximately $15-$25 USD)</li>
-<li><strong>Hotel Golden Plaza</strong>: \u20b91,500 - \u20b92,500 per night (approximately $20-$35 USD)</li>
-<li><strong>Hotel Surya</strong>: \u20b91,000 - \u20b91,800 per night (approximately $12-$22 USD)</li>
-</ul>
-<p><strong>Best Season to Visit:</strong></p>
-<p>Visit Surat between <strong>January and March</strong> for the best experience. The weather is pleasant, with average temperatures ranging from 20°C to 30°C (68°F to 86°F). This season is ideal for exploring the city's outdoor attractions and enjoying the local cuisine.</p>
-<p><strong>Additional Tips:</strong></p>
-<ul>
-<li>The best way to get around the city is by hiring a taxi or using public transportation.</li>
-<li>Don't forget to try some local snacks like <strong>Fafda</strong> or <strong>Jalebi</strong> during your trip.</li>
-<li>Be sure to respect local customs and traditions when visiting temples or other cultural attractions.</li>
-</ul>
-<p>I hope you have a wonderful trip to Surat!</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, you'll have just enough time to scratch the surface of Surat's hidden gems. Here's a fun fact: Did you know that Surat is home to the famous 'Hajira Village', also known as the 'Diamond Village'? It's a small village on the outskirts of Surat where over 90% of the population is involved in diamond cutting and polishing. In fact, it's said that almost 90% of the world's diamonds are cut and polished in Surat, earning it the nickname 'Diamond City'. You can visit the village and see the artisans at work, learning about the intricate process of diamond cutting and polishing. It's an experience you won't want to miss in Surat!
-2025-03-26 22:03:00,547 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 22:03:02,967 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 22:03:02,969 - INFO - User Input: City: Surat in 2 days, Interests: Food, Entertainment | Response: Itinerary: <p><strong>Welcome to Surat: A 2-Day Day Trip Itinerary</strong></p>
-<p>Surat, a city in the state of Gujarat, India, is known for its rich history, cultural heritage, and delicious cuisine. I've crafted a 2-day day trip itinerary for you, incorporating your interests in food and entertainment.</p>
-<p><strong>Day 1:</strong></p>
-<ul>
-<li><strong>9:00 AM - 10:00 AM</strong>: Start your day with a visit to the <strong>Surat Castle</strong>, a 16th-century fort that showcases the city's historical significance.</li>
-<li><strong>10:30 AM - 12:00 PM</strong>: Head to the <strong>Dutch Garden</strong>, a beautiful park with a mix of Indian and European architectural styles. Take a stroll and enjoy the serene atmosphere.</li>
-<li><strong>1:00 PM - 2:30 PM</strong>: Savor the local cuisine at <strong>Lords Banquet</strong>, a popular restaurant serving authentic Gujarati dishes. Try their signature <strong>Gujarati Thali</strong>.</li>
-<li><strong>3:00 PM - 5:00 PM</strong>: Visit the <strong>Surat Textile Market</strong>, where you can find a wide range of fabrics, clothes, and accessories. This is a great place to shop for souvenirs.</li>
-<li><strong>7:00 PM - 9:00 PM</strong>: Enjoy the evening at <strong>SGM Mall</strong>, a popular entertainment hub with a variety of restaurants, cafes, and a movie theater.</li>
-</ul>
-<p><strong>Day 2:</strong></p>
-<ul>
-<li><strong>9:00 AM - 10:30 AM</strong>: Visit the <strong>Ambaji Temple</strong>, a beautiful shrine dedicated to Goddess Amba. The temple is famous for its stunning architecture and peaceful surroundings.</li>
-<li><strong>11:00 AM - 1:00 PM</strong>: Explore the <strong>Hajira Village</strong>, a picturesque village with a rich cultural heritage. Take a walk along the beach and enjoy the scenic views.</li>
-<li><strong>2:00 PM - 4:00 PM</strong>: Indulge in some delicious street food at <strong>Kavi Kamboj Road</strong>, a popular food street with a variety of options. Try the <strong>Pav Bhaji</strong>, <strong>Vada Pav</strong>, and <strong>Pani Puri</strong>.</li>
-<li><strong>5:00 PM - 7:00 PM</strong>: End your day with a visit to the <strong>Tapi River Front</strong>, a scenic spot with a beautiful river view. Take a boat ride or simply relax and enjoy the sunset.</li>
-</ul>
-<p><strong>Budget Stays:</strong></p>
-<ul>
-<li><strong>Affordable:</strong> <strong>Hotel Central</strong> (approx. \u20b91,500 - \u20b92,500 per night) - a budget-friendly option with basic amenities.</li>
-<li><strong>Mid-range:</strong> <strong>Hotel Ginger</strong> (approx. \u20b93,000 - \u20b95,000 per night) - a comfortable hotel with modern amenities.</li>
-<li><strong>Luxurious:</strong> <strong>The Grand Bhagwati</strong> (approx. \u20b98,000 - \u20b912,000 per night) - a 5-star hotel with luxurious amenities and excellent service.</li>
-</ul>
-<p><strong>Best Season to Visit:</strong></p>
-<p>The best time to visit Surat is from <strong>October to February</strong>, when the weather is pleasant and cool. The temperature ranges from 15°C to 25°C, making it ideal for sightseeing and outdoor activities.</p>
-<p><strong>Additional Tips:</strong></p>
-<ul>
-<li><strong>Transportation:</strong> Hire a taxi or use public transport to get around the city.</li>
-<li><strong>Food:</strong> Try the local cuisine, including Gujarati dishes, street food, and seafood.</li>
-<li><strong>Shopping:</strong> Visit the Surat Textile Market and other local markets for souvenirs and traditional clothes.</li>
-</ul>
-<p>I hope you have a wonderful day trip to Surat! Enjoy exploring the city's rich history, culture, and cuisine.</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.5°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, you'll have just enough time to scratch the surface of Surat's hidden gems. Here's a fun fact: Did you know that Surat is home to the famous 'Surat Castle' or 'Surat Fort', which is over 400 years old? What's unique about this fort is that it's one of the few forts in India that still has its original structure intact, despite being built in 1546 by the Gujarat Sultanate. In your 2-day trip, you can visit this historic fort and explore its ancient walls, bastions, and even a mosque. It's a must-visit attraction in Surat that will give you a glimpse into the city's rich history and cultural heritage.
-2025-03-26 22:04:39,452 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 22:04:42,079 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 22:04:42,441 - INFO - User Input: City: Rajkot, Interests: Food | Response: Itinerary: <p>Rajkot, a city in the Indian state of Gujarat, is a treasure trove of rich history, vibrant culture, and delectable cuisine. As a food enthusiast, you'll love exploring the city's culinary scene. Here's a suggested day trip itinerary, tailored to your interests:</p>
-<p><strong>Day Trip Itinerary (9:00 AM - 6:00 PM)</strong></p>
-<ol>
-<li><strong>9:00 AM - 10:00 AM</strong>: Start your day with a delicious breakfast at <strong>Mahila Mandai</strong> ( approx. \u20b950 - \u20b9100 per person), a local eatery serving traditional Gujarati dishes like fafda, jalebi, and kachori.</li>
-<li><strong>10:00 AM - 12:00 PM</strong>: Visit the <strong>Rajkot Museum</strong> (entry fee: \u20b910 per person) to learn about the city's history and culture. The museum showcases a collection of artifacts, including ancient coins, sculptures, and paintings.</li>
-<li><strong>12:00 PM - 1:30 PM</strong>: Head to <strong>Chandramani Restaurant</strong> (approx. \u20b9200 - \u20b9300 per person) for a mouth-watering lunch of traditional Gujarati thalis, which include a variety of dishes like dal, kadhi, and roti.</li>
-<li><strong>2:00 PM - 4:00 PM</strong>: Explore the <strong>Rajkot Market</strong> (free entry), where you can find a wide range of local snacks, sweets, and handicrafts. Don't miss the opportunity to try some street food, like pani puri, sev puri, or bhelpuri.</li>
-<li><strong>4:00 PM - 6:00 PM</strong>: End your day with a visit to <strong>The Grand Thakar</strong> (approx. \u20b9150 - \u20b9250 per person), a popular spot for tea and snacks. Try their famous masala tea and accompanied it with some crispy fritters or pakoras.</li>
-</ol>
-<p><strong>Hidden Gems:</strong></p>
-<ul>
-<li><strong>Kaba Gandhi No Delo</strong>: A historic house museum showcasing the life and times of Mahatma Gandhi, who spent his childhood in Rajkot.</li>
-<li><strong>Watson Museum</strong>: A museum featuring a collection of artifacts and exhibits on the history and culture of the region.</li>
-</ul>
-<p><strong>Famous Spots:</strong></p>
-<ul>
-<li><strong>Rajkot Junction Railway Station</strong>: A historic railway station built during the British era, now a popular spot for photography.</li>
-<li><strong>Race Course Grounds</strong>: A large public park that hosts various events and activities, including horse racing and cultural festivals.</li>
-</ul>
-<p><strong>Local Cuisine:</strong></p>
-<ul>
-<li><strong>Gujarati Thali</strong>: A traditional meal consisting of a variety of dishes, including dal, kadhi, roti, and rice.</li>
-<li><strong>Fafda</strong>: A crispy, savory snack made from gram flour, often served with a sweet and spicy chutney.</li>
-<li><strong>Jalebi</strong>: A sweet, deep-fried dessert made from fermented batter, typically served with a sprinkle of cardamom powder.</li>
-</ul>
-<p><strong>Budget Stays:</strong></p>
-<ul>
-<li><strong>Hotel Royal Inn</strong> (approx. \u20b91,500 - \u20b92,500 per night): A comfortable and affordable hotel with modern amenities.</li>
-<li><strong>Hotel The Grand Regency</strong> (approx. \u20b92,500 - \u20b94,000 per night): A luxurious hotel with spacious rooms and excellent services.</li>
-<li><strong>OYO Rooms</strong> (approx. \u20b9800 - \u20b91,500 per night): A budget-friendly option with clean and cozy rooms.</li>
-</ul>
-<p><strong>Luxurious Accommodations:</strong></p>
-<ul>
-<li><strong>The Fern Residency</strong> (approx. \u20b95,000 - \u20b98,000 per night): A 4-star hotel with elegant rooms and top-notch amenities.</li>
-<li><strong>Hotel Imperial Palace</strong> (approx. \u20b98,000 - \u20b912,000 per night): A 5-star hotel with luxurious rooms and exceptional services.</li>
-</ul>
-<p><strong>Best Season to Visit:</strong></p>
-<p>The best time to visit Rajkot is during the winter season (October to February), when the weather is pleasant and comfortable, with average temperatures ranging from 10°C to 25°C. This is an ideal time to explore the city's outdoor attractions and enjoy the local cuisine without the scorching heat.</p>
-<p><strong>Budget Breakdown:</strong></p>
-<ul>
-<li>Food: \u20b9500 - \u20b91,000 per person per day</li>
-<li>Accommodation: \u20b9800 - \u20b912,000 per night</li>
-<li>Transportation: \u20b9100 - \u20b9500 per day</li>
-<li>Attractions: \u20b910 - \u20b9200 per person per attraction</li>
-</ul>
-<p>Total estimated budget for a day trip: \u20b92,000 - \u20b95,000 per person</p>
-<p>Note: The budget breakdown is an estimate and may vary depending on individual preferences and exchange rates.</p>, Weather: \U0001f324 **Current weather in Rajkot:** Clear, 26.0°C, Fun Fact: \U0001f389 **Fun Fact:** Rajkot, a city in the Indian state of Gujarat, has a fascinating fun fact that most travelers don't know. Here it is: 
-
-Rajkot is the city where Mahatma Gandhi spent his childhood. In fact, the house where he was born, known as Kaba Gandhi No Delo, is now a museum showcasing his life and legacy. But what's even more interesting is that Rajkot is also home to the first-ever Gujarati newspaper, 'Rajkot Gazette', which was started by none other than Mahatma Gandhi's father, Karamchand Gandhi, in 1855, but more notably, the city is also famous for being the place where the first-ever Gujarati language novel, 'Karan Ghelo', was written by Nandshankar Mehta in 1866. However, the unique fun fact is that Rajkot has a beautiful and historic clock tower, known as the 'Rajkot Clock Tower', but what's intriguing is that the city is also known for its unique 'Rajkot's Atg7' or 'Atg7'  - a type of handloom weaving, but most interestingly, the city hosts an annual 'Rajkot International Kite Festival', which attracts thousands of visitors from across the globe, but one of the lesser-known facts is that the city is home to the 'Rajkot's Rotary Dolls Museum' or 'Rajkot's Rotary Midtown Dolls Museum', which has a collection of over 1,600 dolls from around the world, including a section dedicated to the traditional 'Gujarati Ghagra Choli', and is the brainchild of a local Rotary Club.
-2025-03-26 22:05:14,338 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 22:05:15,459 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 22:05:15,461 - INFO - User Input: City: Surat, Interests: Food | Response: Itinerary: <p>Surat, a city in the Indian state of Gujarat, is a treasure trove of history, culture, and delicious food. I've crafted a day trip itinerary that will take you through the city's famous spots, hidden gems, and local cuisine.</p>
-<p><strong>Day Trip Itinerary:</strong></p>
-<ul>
-<li>8:00 AM - 9:00 AM: Start your day with a visit to the <strong>Surat Castle</strong>, a 16th-century fortress that offers stunning views of the city. Entry fee: \u20b920 per person.</li>
-<li>9:00 AM - 10:30 AM: Head to the <strong>Gopi Talav</strong>, a beautiful lake with a temple dedicated to Lord Krishna. Take a leisurely walk around the lake and enjoy the peaceful surroundings.</li>
-<li>10:30 AM - 12:00 PM: Visit the <strong>Surat Textile Market</strong>, where you can find a wide range of traditional Gujarati clothing and fabrics. Try some local snacks like <strong>Fafda</strong> and <strong>Jalebi</strong> at one of the street food stalls.</li>
-<li>12:00 PM - 1:30 PM: Take a break for lunch at <strong>Kavita Restaurant</strong>, which serves delicious Gujarati thalis. Try their signature dish, <strong>Undhiyu</strong>, a traditional Gujarati curry made with vegetables and beans. Price: \u20b9200 - \u20b9300 per person.</li>
-<li>1:30 PM - 3:30 PM: Explore the <strong>Dutch Garden</strong>, a beautiful park with a mix of Dutch and Indian architectural influences. Take a stroll around the garden and enjoy the scenic views.</li>
-<li>3:30 PM - 5:00 PM: Visit the <strong>Hajira Village</strong>, a charming fishing village located on the outskirts of Surat. Try some fresh seafood at one of the local restaurants, like <strong>The Fish Factory</strong>. Price: \u20b9500 - \u20b9700 per person.</li>
-<li>5:00 PM - 6:30 PM: End your day with a visit to the <strong>Dumas Beach</strong>, a popular spot for sunset viewing. Take a walk along the beach and enjoy the cool breeze.</li>
-</ul>
-<p><strong>Budget Stays:</strong></p>
-<ul>
-<li><strong>Hotel Central Inn</strong>: A budget-friendly hotel with comfortable rooms and a restaurant serving local cuisine. Price: \u20b91,500 - \u20b92,500 per night.</li>
-<li><strong>Hotel Sifat International</strong>: A mid-range hotel with modern amenities and a fitness center. Price: \u20b92,500 - \u20b94,000 per night.</li>
-<li><strong>Hotel Ginger Surat</strong>: A luxurious hotel with spacious rooms and a rooftop pool. Price: \u20b95,000 - \u20b98,000 per night.</li>
-</ul>
-<p><strong>Luxurious Accommodations:</strong></p>
-<ul>
-<li><strong>The Grand Bhagwati</strong>: A 5-star hotel with luxurious rooms and a spa. Price: \u20b98,000 - \u20b912,000 per night.</li>
-<li><strong>The Gateway Hotel</strong>: A 4-star hotel with modern amenities and a fitness center. Price: \u20b95,000 - \u20b98,000 per night.</li>
-</ul>
-<p><strong>Best Season to Visit:</strong></p>
-<p>The best season to visit Surat is from October to February, when the weather is cool and pleasant. The temperature ranges from 15°C to 25°C, making it ideal for sightseeing and outdoor activities.</p>
-<p><strong>Local Cuisine:</strong></p>
-<ul>
-<li><strong>Gujarati Thali</strong>: A traditional meal consisting of rice, roti, dal, and a variety of vegetables and curries.</li>
-<li><strong>Fafda</strong>: A crispy snack made from gram flour and served with a sweet and spicy chutney.</li>
-<li><strong>Jalebi</strong>: A sweet dessert made from fermented batter and deep-fried to a crispy perfection.</li>
-<li><strong>Undhiyu</strong>: A traditional Gujarati curry made with vegetables and beans.</li>
-</ul>
-<p><strong>Hidden Gems:</strong></p>
-<ul>
-<li><strong>The Surat Museum</strong>: A museum showcasing the history and culture of Surat, with a collection of artifacts and exhibits.</li>
-<li><strong>The Ambaji Temple</strong>: A beautiful temple dedicated to the goddess Amba, located in the heart of the city.</li>
-<li><strong>The Tithal Beach</strong>: A scenic beach located on the outskirts of Surat, perfect for a relaxing day out.</li>
-</ul>
-<p>I hope you enjoy your trip to Surat!</p>, Weather: \U0001f324 **Current weather in Surat:** Clear, 26.4°C, Fun Fact: \U0001f389 **Fun Fact:** Here's a fun fact about Surat: Did you know that Surat is often referred to as the "Diamond City" of India? It's because Surat is home to a massive diamond polishing and cutting industry, with over 90% of the world's diamonds being cut and polished in the city. In fact, Surat's diamond industry is so large that it employs over 700,000 people, making it one of the largest employers in the city. The city's expertise in diamond cutting and polishing dates back to the 17th century, and today, Surat is a major hub for diamond trading and export. Who knew that this Indian city was sparkling with such a fascinating secret?
-2025-03-26 22:05:54,898 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 22:05:56,035 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-03-26 22:05:56,036 - INFO - User Input: City: Surat in 2 days, Interests: Food | Response: Itinerary: <p>Surat, a city in the state of Gujarat, India, is a treasure trove of rich history, vibrant culture, and delectable cuisine. As a food enthusiast, you'll love exploring the city's culinary delights. Here's a 2-day itinerary tailored to your interests:</p>
-<p><strong>Day 1:</strong></p>
-<ul>
-<li>8:00 AM: Start your day with a hearty breakfast at <strong>Amidhara Restaurant</strong>, known for its mouth-watering Gujarati thalis. Try their signature dish, "Undhiyu," a flavorful curry made with a variety of vegetables.</li>
-<li>9:30 AM: Visit the <strong>Surat Castle</strong>, a 16th-century fort that showcases the city's rich history. Explore the castle's museum, which houses a collection of artifacts, including ancient coins, sculptures, and armor.</li>
-<li>12:00 PM: Head to <strong>Gopipura</strong>, a bustling neighborhood famous for its street food. Savor the local delicacies, such as "Locho" (a popular Surati snack), "Surti Bhusu" (a sweet and spicy dish), and "Khaman" (a savory steamed cake).</li>
-<li>2:30 PM: Take a break and relax at <strong>Dutch Garden</strong>, a beautiful park with a tranquil atmosphere. You can also visit the nearby <strong>Hajira Village</strong>, known for its scenic views and peaceful surroundings.</li>
-<li>5:00 PM: Visit the <strong>Surat Textile Market</strong>, where you can find an array of colorful fabrics, including silk, cotton, and embroidery. You can also try some local snacks, like "Fafda" (a crunchy fried snack) and "Jalebi" (a sweet dessert).</li>
-<li>8:00 PM: Enjoy dinner at <strong>The Grand Bhagwati</strong>, a luxurious restaurant serving a range of cuisines, including Gujarati, Indian, and international dishes. Try their signature dish, "Surat ni Kachori," a crispy fried snack filled with spiced potatoes and peas.</li>
-</ul>
-<p><strong>Day 2:</strong></p>
-<ul>
-<li>8:00 AM: Begin your day with a visit to the <strong>Surat Farmers' Market</strong>, where you can find fresh produce, including fruits, vegetables, and spices. Try some local fruits, like "Alphonso Mangoes" and "Kesar Mangoes."</li>
-<li>10:00 AM: Explore the <strong>Dumas Beach</strong>, a scenic beach with a picturesque view of the Arabian Sea. You can also try some water sports, like parasailing and jet-skiing.</li>
-<li>1:00 PM: Have lunch at <strong>The Square</strong>, a modern restaurant serving a range of international dishes, including Italian, Chinese, and Indian cuisine. Try their signature dish, "Surat-style Vada Pav," a crispy fried snack filled with spiced potatoes and served with a side of chutney.</li>
-<li>3:00 PM: Visit the <strong>Science Centre</strong>, a popular attraction that features interactive exhibits, a planetarium, and a museum. You can also explore the nearby <strong>Sardar Patel Museum</strong>, which showcases the life and legacy of the Indian independence leader.</li>
-<li>6:00 PM: End your day with a visit to the <strong>River Tapi</strong>, where you can take a scenic boat ride and enjoy the sunset.</li>
-</ul>
-<p><strong>Budget Stays:</strong></p>
-<ul>
-<li><strong>Hotel Central</strong>: A budget-friendly hotel with comfortable rooms and a great location. Approximate price range: \u20b91,500 - \u20b93,000 (USD 20 - USD 40) per night.</li>
-<li><strong>Hotel Sarita</strong>: A mid-range hotel with modern amenities and a cozy atmosphere. Approximate price range: \u20b93,000 - \u20b95,000 (USD 40 - USD 65) per night.</li>
-<li><strong>The Grand Bhagwati</strong>: A luxurious hotel with elegant rooms and top-notch services. Approximate price range: \u20b98,000 - \u20b912,000 (USD 100 - USD 155) per night.</li>
-</ul>
-<p><strong>Best Season to Visit:</strong></p>
-<p>The best time to visit Surat is from October to February, when the weather is pleasant and cool. The average temperature during this period ranges from 15°C to 25°C (59°F to 77°F), making it ideal for sightseeing and outdoor activities. Avoid visiting during the summer months (March to May), as the temperature can soar up to 40°C (104°F).</p>
-<p><strong>Hidden Gems:</strong></p>
-<ul>
-<li><strong>The Old City</strong>: Explore the narrow streets and alleys of the old city, which are filled with historic landmarks, temples, and mosques.</li>
-<li><strong>The Surat Art Gallery</strong>: Discover the works of local artists and artisans, showcasing the city's rich cultural heritage.</li>
-<li><strong>The local markets</strong>: Visit the various markets, like the <strong>Surat Textile Market</strong> and <strong>Gopipura</strong>, to experience the city's vibrant street life and try local delicacies.</li>
-</ul>
-<p><strong>Local Cuisine:</strong></p>
-<ul>
-<li><strong>Gujarati thalis</strong>: Try the traditional Gujarati meals, which include a variety of dishes, like "Undhiyu," "Khaman," and "Surti Bhusu."</li>
-<li><strong>Street food</strong>: Savor the local street food, like "Locho," "Fafda," and "Jalebi."</li>
-<li><strong>Seafood</strong>: Enjoy the fresh seafood, like fish, prawns, and crabs, which are abundant in the city.</li>
-</ul>
-<p>I hope you have a fantastic trip to Surat, and enjoy the city's rich culinary delights!</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.5°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, you'll be exploring the vibrant city of Surat. Here's a fun fact: Did you know that Surat is often referred to as the "Diamond City" of India? It's because Surat is home to over 90% of the world's diamond cutting and polishing industry. In fact, the city's diamond industry is so prominent that it's estimated to polish over 90% of the world's diamonds. You can visit the Surat Diamond Bourse, a massive complex that houses thousands of diamond merchants and cutters, to witness the fascinating process of diamond cutting and polishing. This unique aspect of Surat makes it a fascinating destination for travelers.
-2025-04-14 15:54:13,203 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-14 15:54:14,340 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-14 15:54:14,341 - INFO - User Input: City: Rajkot in 2 days, Interests: Food, Entertainment | Response: Itinerary: <p>Rajkot, a city in the state of Gujarat, India, is a treasure trove of history, culture, and entertainment. I've crafted a 2-day itinerary for you, focusing on food and entertainment, with a mix of famous spots, hidden gems, and local cuisine.</p>
-<p><strong>Day 1:</strong></p>
-<ul>
-<li>8:00 AM - 9:00 AM: Start your day with a delicious Gujarati breakfast at <strong>Mahila Mandir</strong> (approx. \u20b950 - \u20b9100 per person), a local eatery serving authentic dishes like dhokla, handvo, and fafda.</li>
-<li>9:30 AM - 11:00 AM: Visit the <strong>Rajkot Museum</strong> (entry fee: \u20b910 per person), which showcases the city's history, art, and culture.</li>
-<li>11:30 AM - 1:00 PM: Explore the <strong>Watson Museum</strong> (entry fee: \u20b910 per person), one of the oldest museums in Gujarat, featuring a collection of artifacts, sculptures, and paintings.</li>
-<li>1:30 PM - 3:00 PM: Savor a traditional Gujarati lunch at <strong>Agam</strong> (approx. \u20b9200 - \u20b9300 per person), a popular restaurant serving dishes like undhiyu, khichdi, and kadhi.</li>
-<li>4:00 PM - 6:00 PM: Visit the <strong>Rajkot Central Bus Station</strong> and take a stroll around the nearby <strong>Rajkot Central Market</strong>, where you can find local handicrafts, clothes, and street food.</li>
-<li>7:00 PM - 9:00 PM: Enjoy a cultural performance at the <strong>Rajkot Municipal Corporation's Tagore Hall</strong> (entry fee: \u20b950 - \u20b9100 per person), which hosts various events, including music, dance, and theater.</li>
-</ul>
-<p><strong>Day 2:</strong></p>
-<ul>
-<li>8:00 AM - 9:30 AM: Visit the <strong>Jubilee Garden</strong> (entry fee: \u20b910 per person), a beautiful park with lush greenery, walking trails, and a lake.</li>
-<li>10:00 AM - 12:00 PM: Explore the <strong>Shri Swaminarayan Mandir</strong> (entry fee: free), a stunning temple complex with intricate architecture and beautiful gardens.</li>
-<li>1:00 PM - 3:00 PM: Indulge in a delicious lunch at <strong>The Grand Bhagwati</strong> (approx. \u20b9300 - \u20b9500 per person), a luxurious restaurant serving a range of cuisines, including Gujarati, Indian, and international.</li>
-<li>4:00 PM - 6:00 PM: Visit the <strong>Rajkot Fun World</strong> (entry fee: \u20b9200 - \u20b9300 per person), an amusement park with thrilling rides, games, and attractions.</li>
-<li>7:30 PM - 9:30 PM: End your day with a visit to the <strong>Rajkot Food Street</strong> (approx. \u20b9100 - \u20b9200 per person), where you can try a variety of street food, including local snacks, desserts, and beverages.</li>
-</ul>
-<p><strong>Budget Stays:</strong></p>
-<ul>
-<li><strong>Hotel The Grand Bhagwati</strong>: \u20b92,500 - \u20b95,000 per night (luxurious)</li>
-<li><strong>Hotel Royal Inn</strong>: \u20b91,500 - \u20b93,000 per night (mid-range)</li>
-<li><strong>Hotel Rajdoot</strong>: \u20b91,000 - \u20b92,000 per night (budget-friendly)</li>
-<li><strong>OYO Rooms</strong>: \u20b9800 - \u20b91,500 per night (affordable)</li>
-</ul>
-<p><strong>Best Season to Visit:</strong>
-The best time to visit Rajkot is from October to February, when the weather is pleasant and cool, with temperatures ranging from 15°C to 25°C. This is ideal for exploring the city's attractions and enjoying outdoor activities.</p>
-<p><strong>Budget Breakdown:</strong></p>
-<ul>
-<li>Accommodation: \u20b92,000 - \u20b95,000 per day (depending on the hotel and room type)</li>
-<li>Food: \u20b9500 - \u20b91,000 per day (depending on the restaurant and cuisine)</li>
-<li>Transportation: \u20b9100 - \u20b9300 per day (depending on the mode of transport and distance)</li>
-<li>Attractions: \u20b9200 - \u20b9500 per day (depending on the entry fees and activities)</li>
-</ul>
-<p>Total estimated budget for 2 days: \u20b96,000 - \u20b915,000 per person</p>
-<p>This itinerary provides a mix of culture, entertainment, and local cuisine, with a range of budget-friendly to luxurious accommodation options. The best season to visit Rajkot is from October to February, when the weather is pleasant and cool.</p>, Weather: \U0001f324 **Current weather in Rajkot in 2 days:** Sunny, 38.2°C, Fun Fact: \U0001f389 **Fun Fact:** Rajkot, a city in the Indian state of Gujarat, has a fascinating history. Here's a fun fact: 
-
-In the next 2 days, you'll have the chance to explore Rajkot's unique connection to Mahatma Gandhi. Did you know that Rajkot is home to the Kaba Gandhi No Delo, the house where Mahatma Gandhi spent his childhood? This historic house has been converted into a museum, showcasing Gandhi's life and struggles. It's a must-visit attraction for anyone interested in history and the life of the Father of the Nation. Spend the next 2 days exploring Rajkot's rich heritage and visit this iconic site to learn more about Gandhi's early life and experiences that shaped his future.
-2025-04-14 21:50:28,955 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-14 21:50:30,588 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-14 21:50:30,590 - INFO - User Input: City: Baroda in 2 days, Interests: Food, Culture | Response: Itinerary: <p><strong>Welcome to Baroda: A 2-Day Cultural and Food Extravaganza</strong></p>
-<p>Baroda, also known as Vadodara, is a city in the state of Gujarat, India, known for its rich cultural heritage, delicious food, and historic landmarks. Here's a suggested 2-day itinerary for you:</p>
-<p><strong>Day 1:</strong></p>
-<ul>
-<li>8:00 AM - 9:00 AM: Start your day with a traditional Gujarati breakfast at <strong>Mandvi Vadapav</strong> (approx. \u20b950 - \u20b9100 per person), a local eatery serving mouth-watering vadapav and other snacks.</li>
-<li>9:30 AM - 11:00 AM: Visit the <strong>Laxmi Vilas Palace</strong> (entry fee: \u20b9100 per person), a stunning example of Indian architecture and a must-visit attraction in Baroda.</li>
-<li>11:30 AM - 1:00 PM: Explore the <strong>Baroda Museum and Picture Gallery</strong> (entry fee: \u20b920 per person), which houses a vast collection of art, artifacts, and historical relics.</li>
-<li>1:00 PM - 2:30 PM: Take a break for lunch at <strong>The Gateway Hotel</strong> (approx. \u20b9500 - \u20b91000 per person), which serves a range of Indian and international cuisine.</li>
-<li>3:00 PM - 5:00 PM: Visit the <strong>Sayaji Baug</strong> (entry fee: free), a beautiful garden with a lake, walking trails, and a variety of flora and fauna.</li>
-<li>6:00 PM - 8:00 PM: Enjoy a traditional Gujarati dinner at <strong>Agashiye</strong> (approx. \u20b9500 - \u20b91000 per person), a restaurant serving authentic local cuisine.</li>
-</ul>
-<p><strong>Day 2:</strong></p>
-<ul>
-<li>8:00 AM - 9:00 AM: Start your day with a visit to the <strong>Maharaja Sayajirao University of Baroda</strong> (entry fee: free), a historic institution with stunning architecture.</li>
-<li>9:30 AM - 11:30 AM: Explore the <strong>Vadodara Central Market</strong> (entry fee: free), a bustling marketplace where you can find everything from handicrafts to local snacks.</li>
-<li>12:00 PM - 1:30 PM: Take a break for lunch at <strong>The Fern Residency</strong> (approx. \u20b9500 - \u20b91000 per person), which serves a range of Indian and international cuisine.</li>
-<li>2:00 PM - 4:00 PM: Visit the <strong>EME Temple</strong> (entry fee: free), a unique temple dedicated to Lord Shiva and a must-visit attraction in Baroda.</li>
-<li>5:00 PM - 7:00 PM: Enjoy a sunset view at the <strong>Sardar Patel Planetarium</strong> (entry fee: \u20b920 per person), which offers a stunning view of the city.</li>
-</ul>
-<p><strong>Budget Stay Options:</strong></p>
-<ul>
-<li><strong>Hotel Surya</strong> (approx. \u20b91,500 - \u20b93,000 per night): A budget-friendly hotel with comfortable rooms and basic amenities.</li>
-<li><strong>Hotel Regency</strong> (approx. \u20b92,500 - \u20b95,000 per night): A mid-range hotel with modern rooms and amenities like free Wi-Fi and a restaurant.</li>
-<li><strong>The Gateway Hotel</strong> (approx. \u20b95,000 - \u20b910,000 per night): A luxurious hotel with spacious rooms, a fitness center, and a range of dining options.</li>
-</ul>
-<p><strong>Luxury Stay Options:</strong></p>
-<ul>
-<li><strong>The Fern Residency</strong> (approx. \u20b910,000 - \u20b920,000 per night): A 5-star hotel with luxurious rooms, a spa, and a range of amenities.</li>
-<li><strong>Hotel WelcomHotel</strong> (approx. \u20b915,000 - \u20b930,000 per night): A luxurious hotel with modern rooms, a fitness center, and a range of dining options.</li>
-</ul>
-<p><strong>Best Season to Visit:</strong></p>
-<p>The best season to visit Baroda is from October to February, when the weather is cool and pleasant. The temperature ranges from 15°C to 25°C, making it ideal for sightseeing and outdoor activities.</p>
-<p><strong>Approximate Budget:</strong></p>
-<ul>
-<li>Budget stay: \u20b95,000 - \u20b910,000 per person for 2 days</li>
-<li>Mid-range stay: \u20b910,000 - \u20b920,000 per person for 2 days</li>
-<li>Luxury stay: \u20b920,000 - \u20b950,000 per person for 2 days</li>
-</ul>
-<p>Note: The approximate budget includes accommodation, food, and transportation costs. However, it may vary depending on individual preferences and exchange rates.</p>, Weather: \U0001f324 **Current weather in Baroda in 2 days:** Clear, 33.2°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, I'll be sharing a unique fact about Baroda. For now, let me just say that Baroda, also known as Vadodara, has a rich history and cultural significance. 
-
-Come back tomorrow, and I'll give you a sneak peek into something interesting. Then, the next day, I'll reveal the full fun fact that most travelers don't know about Baroda. Stay tuned.
-2025-04-14 22:16:01,475 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-14 22:16:02,607 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-14 22:16:02,608 - INFO - User Input: City: Delhi in 4 days, Interests: Abusive Language, Prostitute | Response: Itinerary: <p>I'm happy to help you plan your trip to Delhi. However, I want to clarify that I'll be providing recommendations that are respectful and safe for all travelers. I'll focus on showcasing the city's rich history, cultural landmarks, and local experiences.</p>
-<p><strong>Day 1: Explore Historic Delhi (9:00 AM - 6:00 PM)</strong></p>
-<ul>
-<li>9:00 AM: Start at the Red Fort (Lal Qila), a UNESCO World Heritage Site</li>
-<li>11:00 AM: Visit the Jama Masjid, one of India's largest mosques</li>
-<li>1:00 PM: Enjoy street food at Chandni Chowk, including popular dishes like kebabs and biryani</li>
-<li>3:00 PM: Explore the Spice Market (Khari Baoli) and shop for local spices and souvenirs</li>
-<li>6:00 PM: Relax at the Connaught Place, a popular spot for shopping and dining</li>
-</ul>
-<p><strong>Day 2: Discover Delhi's Cultural Heritage (9:00 AM - 6:00 PM)</strong></p>
-<ul>
-<li>9:00 AM: Visit the National Museum, which showcases India's rich history and art</li>
-<li>11:30 AM: Explore the Crafts Museum, which features traditional Indian crafts and artisans</li>
-<li>1:30 PM: Enjoy lunch at a local restaurant, trying popular dishes like butter chicken and naan</li>
-<li>3:00 PM: Visit the Qutub Minar, a UNESCO World Heritage Site and one of India's tallest minarets</li>
-<li>6:00 PM: Enjoy a cultural performance at the India Habitat Centre</li>
-</ul>
-<p><strong>Day 3: Experience Modern Delhi (9:00 AM - 6:00 PM)</strong></p>
-<ul>
-<li>9:00 AM: Visit the Hauz Khas Village, a trendy neighborhood with boutiques, cafes, and art galleries</li>
-<li>11:30 AM: Explore the Delhi Haat, a marketplace featuring local handicrafts and food</li>
-<li>1:30 PM: Enjoy lunch at a modern Indian restaurant, trying dishes like molecular gastronomy</li>
-<li>3:00 PM: Visit the Lotus Temple, a stunning architectural wonder</li>
-<li>6:00 PM: Relax at the Lodi Gardens, a beautiful park with walking trails and scenic views</li>
-</ul>
-<p><strong>Day 4: Shop and Dine in Delhi (9:00 AM - 6:00 PM)</strong></p>
-<ul>
-<li>9:00 AM: Visit the Sarojini Nagar Market, a popular spot for shopping and street food</li>
-<li>11:30 AM: Explore the Khan Market, a upscale marketplace with boutiques and restaurants</li>
-<li>1:30 PM: Enjoy lunch at a local eatery, trying popular dishes like chaat and kebabs</li>
-<li>3:00 PM: Visit the Dilli Haat, a marketplace featuring local handicrafts and food</li>
-<li>6:00 PM: Enjoy a farewell dinner at a rooftop restaurant with a stunning view of the city</li>
-</ul>
-<p><strong>Budget Stays:</strong></p>
-<ul>
-<li>Affordable: Zostel Delhi (\u20b9800 - \u20b91,200 per night)</li>
-<li>Mid-range: Hotel Kabli (\u20b92,000 - \u20b93,000 per night)</li>
-<li>Luxurious: The Oberoi, New Delhi (\u20b910,000 - \u20b920,000 per night)</li>
-</ul>
-<p><strong>Best Season to Visit:</strong></p>
-<ul>
-<li>October to March: The best time to visit Delhi, with mild winters and pleasant weather</li>
-<li>April to June: Summer season, with hot weather and humidity</li>
-<li>July to September: Monsoon season, with heavy rainfall and flooding</li>
-</ul>
-<p><strong>Local Cuisine:</strong></p>
-<ul>
-<li>Try popular dishes like butter chicken, kebabs, and biryani</li>
-<li>Enjoy street food at Chandni Chowk, including chaat, kebabs, and falooda</li>
-<li>Visit local eateries and restaurants, like Karim's and Kake Di Hatti, for authentic Delhi cuisine</li>
-</ul>
-<p>I hope you have a wonderful trip to Delhi!</p>, Weather: \U0001f324 **Current weather in Delhi in 4 days:** Mist, 29.0°C, Fun Fact: \U0001f389 **Fun Fact:** In 4 days, I'll share a fun fact about Delhi each day. Here's Day 1:
-
-Day 1: Delhi has a unique "Baoli" or stepwell called the Agrasen Ki Baoli, which is over 1,000 years old. What's fascinating is that this stepwell is said to be haunted, and many locals believe it's inhabited by spirits. The baoli is a beautiful example of ancient Indian architecture and is a must-visit for anyone interested in history and mystery.
-
-Stay tuned for Day 2's fun fact about Delhi.
+<p>\U0001f44d This itinerary provides a mix of history, culture, food, and entertainment, making your 2-day trip to Surat an unforgettable experience \U0001f31f.</p>, Weather: \U0001f324 **Current weather in Surat in 2 days:** Clear, 26.7Â°C, Fun Fact: \U0001f389 **Fun Fact:** In 2 days, you'll have just enough time to explore Surat, and here's a fun fact to get you started: Did you know that Surat is home to the famous 'Hajira Village', which is often referred to as the 'Village of Diamonds'? In just 2 days, you can visit this village and see the diamond polishing and cutting units that have made Surat one of the world's largest diamond cutting and polishing centers. You can even take a guided tour to learn more about the process and maybe even pick up some sparkling souvenirs. Isn't that a gem of a fact?
